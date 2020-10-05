@@ -1,0 +1,30 @@
+body {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+    font: italic;
+    color: rgb(253, 107, 107);
+}
+fieldset {
+    border: 6px solid black;
+    border-radius: 40px;
+    background-color: rgb(240, 240, 240);
+}
+.radio {
+    margin-left: 40px;
+}
+.setque {
+    margin-left: 20px;
+}
+button {
+    margin-left: 44%;
+    font-size: 35px;
+    color: cornsilk;
+    border-radius: 20px;
+    border-width: 5px;
+    background-color: rgb(64, 147, 255);
+}
